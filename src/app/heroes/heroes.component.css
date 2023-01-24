@@ -13,9 +13,7 @@ justify-content: space-between;
 float: right;
 
 }
-.heroes li{
-  min-width: 4rem;
-}
+
 
 .heroes button {
   flex: 1;
